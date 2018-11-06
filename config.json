@@ -1,0 +1,11 @@
+{
+	"rally_url" : "https://rally1.rallydev.com/slm",
+    "api_key" : "",
+    "username" : "",
+    "password" : "",
+    "workspace" : "",
+	"output_filename" : "project_teammembers.csv",
+    "log_name" : "project_teammembers.log",
+    "role_types" : ["Admin", "User", "Viewer", "Editor"],
+    "include_disabled_users" : false
+}
